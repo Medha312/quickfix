@@ -147,16 +147,12 @@ quickfix/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
-**Aditya Kushwaha**
+**Srishti Singh**
 - GitHub: [@scintillating2107](https://github.com/scintillating2107)
 
 ---
 
-<p align="center">Made with ❤️ for hackathon</p>
+<p align="center">Made with ❤️</p>
 
